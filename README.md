@@ -1,28 +1,11 @@
-# Adonis API application
+# Node - Módulo 4
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo4/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo4.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo4.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-modulo4.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-modulo4.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-modulo4.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo4.svg?color=blueviolet)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
