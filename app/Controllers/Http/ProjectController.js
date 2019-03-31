@@ -13,7 +13,7 @@ class ProjectController {
     return projects
   }
 
-  async store ({ request, response, auth }) {
+  async store ({ request, auth }) {
     const data = request.only(['title', 'description'])
 
     const project = await Project.create({ ...data, user_id: auth.user.id })
