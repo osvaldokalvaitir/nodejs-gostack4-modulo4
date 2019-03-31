@@ -1,5 +1,7 @@
 'use strict'
 
+const Antl = use('Antl')
+
 class ForgPassword {
   get validateAll () {
     return true
@@ -10,6 +12,10 @@ class ForgPassword {
       email: 'required|email',
       redirect_url: 'required|url'
     }
+  }
+
+  get messages () {
+    return Antl.list('validation')
   }
 }
 
