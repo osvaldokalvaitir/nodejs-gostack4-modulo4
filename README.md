@@ -1,6 +1,6 @@
 # Node - Módulo 4
 
-Aplicação usando Node.js, AdonisJs e ESLint.
+Aplicação usando Node.js, AdonisJs, ESLint e Moment.
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo4/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo4.svg)
