@@ -24,6 +24,10 @@ Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sen
 
   - [Execução do Projeto](#execução-do-projeto)
 
+  - [Execução de API para Desenvolvimento](#execução-de-api-para-desenvolvimento)
+
+  - [Execução de Ouvinte de Fila](#execução-de-ouvinte-de-fila)
+
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
@@ -77,6 +81,14 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+### Execução de API para Desenvolvimento
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-cli.md) e siga a Execução de API para Desenvolvimento.
+
+### Execução de Ouvinte de Fila
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-cli.md) e siga a Execução de Ouvinte de Fila.
 
 ### Bibliotecas
 
