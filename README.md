@@ -1,6 +1,6 @@
 # Node - Módulo 4
 
-Aplicação usando Node.js, AdonisJs, ESLint e Moment.
+Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sentry.
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo4/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo4.svg)
@@ -14,19 +14,69 @@ Aplicação usando Node.js, AdonisJs, ESLint e Moment.
 
 ## Índice
 
+- [Rotas](#rotas)
+
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
 
+  - [Instalação do Projeto](#instalação-do-projeto)
+
+  - [Execução do Projeto](#execução-do-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
+
+## Rotas
+
+- Projetos
+
+  - Lista todos os projetos
+  - Adiciona novos projetos
+  - Lista somente dados de um projeto
+  - Edita dados de projetos existentes
+  - Exclui projetos existentes
+
+- Tarefas
+
+  - Lista todas as tarefas de um projeto
+  - Adiciona novas tarefas em um projeto
+  - Lista somente dados de uma tarefa de um projeto
+  - Edita dados de uma tarefa de um projeto
+  - Exclui uma tarefa de um projeto
+
+- Arquivos
+
+  - Lista um arquivo
+  - Adiciona novos arquivos
+
+- Redefinição de Senha
+
+  - Requisita nova senha
+  - Adiciona nova senha
+
+- Sessões
+
+  - Adiciona novas sessões
+
+- Usuários
+
+  - Adiciona novos usuários
 
 ## Desenvolvimento
 
 ### Configurações Iniciais
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+
+### Instalação do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+
+### Execução do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
 ### Bibliotecas
 
