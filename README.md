@@ -1,7 +1,5 @@
 # Node - Módulo 4
 
-Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sentry.
-
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo4/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo4.svg)
 ![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo4.svg?color=red)
@@ -11,6 +9,8 @@ Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sen
 ![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo4.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sentry.
 
 ## Índice
 
