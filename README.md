@@ -82,11 +82,11 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
-### Execução de API para Desenvolvimento
+### Execução da API para Desenvolvimento
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-cli.md) e siga a Execução de API para Desenvolvimento.
 
-### Execução de Ouvinte de Fila
+### Execução do Ouvinte de Fila
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-cli.md) e siga a Execução de Ouvinte de Fila.
 
