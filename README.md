@@ -24,9 +24,9 @@ Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sen
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Execução de API para Desenvolvimento](#execução-de-api-para-desenvolvimento)
+  - [Execução da API para Desenvolvimento](#execução-da-api-para-desenvolvimento)
 
-  - [Execução de Ouvinte de Fila](#execução-de-ouvinte-de-fila)
+  - [Execução do Ouvinte de Fila](#execução-do-ouvinte-de-fila)
 
   - [Bibliotecas](#bibliotecas)
 
