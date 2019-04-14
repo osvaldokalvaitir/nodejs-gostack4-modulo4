@@ -14,8 +14,6 @@ Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sen
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -28,45 +26,13 @@ Aplicação usando Node.js, AdonisJs, ESLint, Moment, Raven-node, Mailtrap e Sen
 
   - [Execução do Ouvinte de Fila](#execução-do-ouvinte-de-fila)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)
 
-  - [Outras Ferramentas](#outras-ferramentas)
-
-## Rotas
-
-- Projetos
-
-  - Lista todos os projetos
-  - Adiciona novos projetos
-  - Lista somente dados de um projeto
-  - Edita dados de projetos existentes
-  - Exclui projetos existentes
-
-- Tarefas
-
-  - Lista todas as tarefas de um projeto
-  - Adiciona novas tarefas em um projeto
-  - Lista somente dados de uma tarefa de um projeto
-  - Edita dados de uma tarefa de um projeto
-  - Exclui uma tarefa de um projeto
-
-- Arquivos
-
-  - Lista um arquivo
-  - Adiciona novos arquivos
-
-- Redefinição de Senha
-
-  - Requisita nova senha
-  - Adiciona nova senha
-
-- Sessões
-
-  - Adiciona novas sessões
-
-- Usuários
-
-  - Adiciona novos usuários
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -90,6 +56,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-cli.md) e siga a Execução de Ouvinte de Fila.
 
+## Utilizados no Projeto
+
 ### Bibliotecas
 
 - [Adonis Antl](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@adonisjs-antl.md)
@@ -112,7 +80,47 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Raven-node](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/raven.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Projetos
+
+      - Lista todos os projetos
+      - Adiciona novos projetos
+      - Lista somente dados de um projeto
+      - Edita dados de projetos existentes
+      - Exclui projetos existentes
+
+    - Tarefas
+
+      - Lista todas as tarefas de um projeto
+      - Adiciona novas tarefas em um projeto
+      - Lista somente dados de uma tarefa de um projeto
+      - Edita dados de uma tarefa de um projeto
+      - Exclui uma tarefa de um projeto
+
+    - Arquivos
+
+      - Lista um arquivo
+      - Adiciona novos arquivos
+
+    - Redefinição de Senha
+
+      - Requisita nova senha
+      - Adiciona nova senha
+
+    - Sessões
+
+      - Adiciona novas sessões
+
+    - Usuários
+
+      - Adiciona novos usuários
+
+### Ferramentas
 
 - [DBeaver](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/dbeaver.md)
 
