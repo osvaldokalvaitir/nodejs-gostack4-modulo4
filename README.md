@@ -54,7 +54,7 @@ adonis serve --dev
 adonis kue:listen
 ```
 
-Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [Redis Docker Image redis:alpine](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/redis-alpine.md), [DBeaver](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/multiples/dbeaver.md), [Mailtrap](https://github.com/osvaldokalvaitir/awesome/blob/main/src/emails/mailtrap.md), [Sentry](https://github.com/osvaldokalvaitir/awesome/blob/main/src/errors/sentry.md).
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [Redis Docker Image redis:alpine](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/redis-alpine.md), [DBeaver](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/multiples/dbeaver.md), [Mailtrap](https://github.com/osvaldokalvaitir/awesome/blob/main/src/emails/mailtrap.md), [Sentry](https://github.com/osvaldokalvaitir/awesome/blob/main/src/errors/sentry.md).
 
 ## :memo: License
 
